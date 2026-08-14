@@ -7,4 +7,6 @@ desktop.ini
 config.json
 *.pem
 *.pkcs12
+*.gitignore
+*.bat
 senhas.txt
